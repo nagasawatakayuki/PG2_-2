@@ -5,7 +5,7 @@
 
 const char kWindowTitle[] = "PG2_評価課題2";
 
-// シーン定義
+// シーンの定義
 enum Scene {
     TITLE,
     GAME,
